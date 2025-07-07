@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+This a changed template,thanks to:
 
 Template Name: Company
 Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
